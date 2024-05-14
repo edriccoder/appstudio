@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "com.example.gymapp-debug-38:/layout_fragment_tracking.xml.flat",
+        "source": "com.example.gymapp-main-40:/layout/fragment_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_button_week_click.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\button_week_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_rectangle_9.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\rectangle_9.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_lets_icons_back.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\lets_icons_back.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_weekly_goal.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_weekly_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_male.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\male.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_exfocus_list.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_exfocus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_track.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\track.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_advance.jpg.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\advance.jpg"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_m_f.jpg.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\m_f.jpg"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_notifications.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_image_3.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\image_3.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_ellipse_1.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\ellipse_1.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_abs.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\abs.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_fragment_tracking.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\fragment_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_advance1.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\advance1.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_circular_progress_bar.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_exercise_list.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_exercise_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_forgotpass.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_forgotpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_inter.jpg.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\inter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_fragment_profile2.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\fragment_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_healthicons_arm_outline.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\healthicons_arm_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_exercise_details.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_exercise_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_goals.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_level.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_level.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_legs.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\legs.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_edi_shape.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\edi_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_divider.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_profileback.jpg.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\profileback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_build_muscle.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\build_muscle.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_keep_fit.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\keep_fit.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_border2.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\border2.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_loss_weight.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\loss_weight.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_female.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\female.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_begin1.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\begin1.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_startpic.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\startpic.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_list_days.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\list_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_pexels_pavel_danilyuk_6339731_1.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\pexels_pavel_danilyuk_6339731_1.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_setting.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_weight.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_gender.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_gender.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_begin.jpg.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\begin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_focus.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_healthicons_body_outline.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\healthicons_body_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_inter1.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\inter1.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_startup.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_startup.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_dumbell.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\dumbell.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\layout_activity_signups.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\layout\\activity_signups.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_button_week.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\button_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_cardio.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\cardio.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\drawable_backbody.png.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\drawable\\backbody.png"
+    },
+    {
+        "merged": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-debug-38:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\limpi\\.gradle\\daemon\\8.7-rc-1\\com.example.gymapp-main-40:\\menu\\bottom_nav.xml"
+    }
+]
